@@ -1,1 +1,3 @@
 # study-notes
+
+This is just another brain of myself to save the knowledge I've learned...
