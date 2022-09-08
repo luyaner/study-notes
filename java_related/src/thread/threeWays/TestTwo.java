@@ -1,4 +1,4 @@
-package thread;
+package thread.threeWays;
 
 public class TestTwo {
     public static void main(String[] args) {
