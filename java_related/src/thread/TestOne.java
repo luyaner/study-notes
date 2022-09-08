@@ -1,6 +1,6 @@
 package thread;
 
-public class Test {
+public class TestOne {
     public static void main(String[] args) {
         for (int i = 1; i < 10; i++) {
             System.out.println("main-1---- " + i);
